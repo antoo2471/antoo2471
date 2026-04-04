@@ -9,6 +9,8 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - name: Generate GitHub Contributions Snake
         uses: Platane/snk/svg-only@v3
