@@ -38,7 +38,7 @@
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/antoo2471/antoo2471/output/github-contribution-grid-snake.gif" alt="GitHub Snake" />
+  <img src="https://raw.githubusercontent.com/antoo2471/antoo2471/output/github-contribution-grid-snake.svg" alt="GitHub Snake" />
 </p>
 
 ---
