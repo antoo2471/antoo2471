@@ -11,8 +11,18 @@
 - Stack moderne : React, Node.js, Docker, Cloudflare, MariaDB, Caddy...
 - Mon portfolio sera disponible bientôt [ICI](https://antoo.online) !
 
+---
+### Mes compétences :
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=lua,cs,cpp,bash,php,c,rust,go,java,python,dart,ts,js,html,css,github,windows,linux&theme=light&perline=18" alt="Skills" />
+</p>
+
+---
+
+### Mes statistiques :
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=antoo2471&theme=tokyonight&locale=fr&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
 </p>
 
 ---
