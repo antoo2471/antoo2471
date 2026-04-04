@@ -1,1 +1,3 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Nunito&weight=100&letterSpacing=1px&duration=2000&pause=2000&color=840EF7&center=true&vCenter=true&width=435&lines=Salut%2C+je+suis+Antoo+!;D%C3%A9veloppeur+Fullstack+%26+SysAdmin;Owner+Neutroncore+%26+Arkyn+Studios;Bonne+visite+!)](https://git.io/typing-svg)
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Nunito&weight=100&letterSpacing=1px&duration=2000&pause=2000&color=840EF7&center=true&vCenter=true&width=435&lines=Salut%2C+je+suis+Antoo+!;D%C3%A9veloppeur+Fullstack+%26+SysAdmin;Owner+Neutroncore+%26+Arkyn+Studios;Bonne+visite+!" alt="Typing SVG" /></a>
+</p>
