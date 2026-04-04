@@ -12,3 +12,9 @@
 - Mon portfolio sera disponible bientôt [ICI](https://antoo.online) !
 
 ---
+
+
+
+<p align="center">
+![Visitors](https://komarev.com/ghpvc/?username=antoo2471&color=grey&style=flat-square&label=Visitors)
+</p>
