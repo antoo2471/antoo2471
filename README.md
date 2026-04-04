@@ -16,5 +16,7 @@
 
 
 <p align="center">
-![Visitors](https://komarev.com/ghpvc/?username=antoo2471&color=grey&style=flat-square&label=Visitors)
+<a href="https://komarev.com/ghpvc/?username=antoo2471&color=grey&style=flat-square&label=Visitors">
+<img src="https://komarev.com/ghpvc/?username=antoo2471&color=grey&style=flat-square&label=Visitors" alt="Visitors">
+</a>
 </p>
