@@ -25,6 +25,10 @@
 <img src="https://streak-stats.demolab.com?user=antoo2471&theme=tokyonight&locale=fr&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/antoo2471/antoo2471/output/github-contribution-grid-snake.svg" alt="GitHub Snake" />
+</p>
+
 ---
 
 <p align="center">
