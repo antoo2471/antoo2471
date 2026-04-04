@@ -4,11 +4,11 @@
 
 ---
 ### A propos de moi :
-    - Je suis un jeune développeur mid-level
-    - Je touche un peu à tout les langages, comme Lua, C#, C++, Bash, PHP, C, Rust, Go, Java, Python, Dart, Typescript, JavaScript, HTML/CSS
-    - Je suis également sysadmin et j'aime bien gérer des serveurs
-    - J'aime bien apprendre de nouvelles choses et découvrir de nouveaux langages
-    - Stack moderne : React, Node.js, Docker, Cloudflare, MariaDB, Caddy...
-    - Mon portfolio sera disponible bientôt [ICI](https://antoo.online) !
+- Je suis un jeune développeur mid-level
+- Je touche un peu à tout les langages, comme Lua, C#, C++, Bash, PHP, C, Rust, Go, Java, Python, Dart, Typescript, JavaScript, HTML/CSS
+- Je suis également sysadmin et j'aime bien gérer des serveurs
+- J'aime bien apprendre de nouvelles choses et découvrir de nouveaux langages
+- Stack moderne : React, Node.js, Docker, Cloudflare, MariaDB, Caddy...
+- Mon portfolio sera disponible bientôt [ICI](https://antoo.online) !
 
 ---
