@@ -29,6 +29,20 @@
   <img src="https://raw.githubusercontent.com/antoo2471/antoo2471/output/github-contribution-grid-snake.svg" alt="GitHub Snake" />
 </p>
 
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=antoo2471&theme=tokyonight" alt="Profile Details" />
+</p>
+
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=antoo2471&theme=tokyonight" alt="Repos per Language" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=antoo2471&theme=tokyonight" alt="Most Commit Language" />
+</p>
+
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=antoo2471&theme=tokyonight" alt="Stats" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=antoo2471&theme=tokyonight&utcOffset=1" alt="Productive Time" />
+</p>
+
 ---
 
 <p align="center">
@@ -36,3 +50,4 @@
 <img src="https://komarev.com/ghpvc/?username=antoo2471&color=grey&style=flat-square&label=Visitors" alt="Visitors">
 </a>
 </p>
+
