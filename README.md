@@ -11,9 +11,11 @@
 - Stack moderne : React, Node.js, Docker, Cloudflare, MariaDB, Caddy...
 - Mon portfolio sera disponible bientôt [ICI](https://antoo.online) !
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=lua,cs,cpp,bash,php,c,rust,go,java,python,dart,ts,js,html,css,react,nodejs,docker,cloudflare,mariadb,caddy" alt="Skills" />
+</p>
+
 ---
-
-
 
 <p align="center">
 <a href="https://komarev.com/ghpvc/?username=antoo2471&color=grey&style=flat-square&label=Visitors">
