@@ -12,7 +12,7 @@
 - Mon portfolio sera disponible bientôt [ICI](https://antoo.online) !
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=lua,cs,cpp,bash,php,c,rust,go,java,python,dart,ts,js,html,css,github,windows,linux&theme=light" alt="Skills" />
+  <img src="https://skillicons.dev/icons?i=lua,cs,cpp,bash,php,c,rust,go,java,python,dart,ts,js,html,css,github,windows,linux&theme=light&perline=18" alt="Skills" />
 </p>
 
 ---
