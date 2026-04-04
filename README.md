@@ -34,13 +34,7 @@
 </p>
 
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=antoo2471&theme=tokyonight" alt="Repos per Language" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=antoo2471&theme=tokyonight" alt="Most Commit Language" />
-</p>
-
-<p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=antoo2471&theme=tokyonight" alt="Stats" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=antoo2471&theme=tokyonight&utcOffset=1" alt="Productive Time" />
 </p>
 
 ---
