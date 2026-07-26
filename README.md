@@ -15,7 +15,7 @@
 ### Mes compétences :
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=lua,cs,cpp,bash,php,c,rust,go,java,python,dart,ts,js,html,css,github,windows,linux&theme=light&perline=18" alt="Skills" />
+  <img src="https://skillicons.dev/icons?i=lua,cs,cpp,bash,php,c,rust,go,java,python,dart,ts,js,html,css,vue,nuxt,next,vite,react,github,windows,linux&theme=light&perline=18" alt="Skills" />
 </p>
 
 ---
