@@ -15,7 +15,7 @@
 ### Mes compétences :
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=lua,cs,cpp,bash,php,c,rust,go,java,python,dart,ts,js,html,css,vue,nuxt,next,vite,react,nodejs,github,windows,linux,mysql,redis,postgresql,mongodb&theme=light&perline=18" alt="Skills" />
+  <img src="https://skillicons.dev/icons?i=lua,cs,cpp,bash,php,c,rust,go,java,python,dart,ts,js,html,css,vue,nuxt,next,vite,react,nodejs,github,windows,linux,mysql,redis,postgresql,mongodb,git,docker,cloudflare&theme=light&perline=18" alt="Skills" />
 </p>
 
 ---
