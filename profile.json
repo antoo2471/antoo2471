@@ -1,0 +1,275 @@
+{
+  "version": 1,
+  "login": "antoo2471",
+  "seed": "#DC628E",
+  "seedFromAvatar": true,
+  "scheme": "tonalSpot",
+  "motion": true,
+  "iconFill": true,
+  "order": [
+    "hero",
+    "socials",
+    "about",
+    "stack",
+    "stats",
+    "streak",
+    "wave",
+    "projects",
+    "buttons"
+  ],
+  "hidden": [],
+  "hero": {
+    "greeting": "Salut, je suis",
+    "name": "Antoo !",
+    "subtitle": "Développeur Fullstack & Sysadmin",
+    "typing": true,
+    "avatarShape": "pill",
+    "chips": [
+      {
+        "icon": "location_on",
+        "label": "France"
+      },
+      {
+        "icon": "code",
+        "label": "Fullstack moderne"
+      }
+    ]
+  },
+  "about": {
+    "title": "A propos de moi :",
+    "items": [
+      {
+        "icon": "person",
+        "label": "Je suis un jeune développeur mid-level"
+      },
+      {
+        "icon": "code",
+        "label": "Je touche un peu à tout les langages."
+      },
+      {
+        "icon": "view_object_track",
+        "label": "Je suis également SysAdmin et j'aime bien gérer des serveurs."
+      },
+      {
+        "icon": "more_horiz",
+        "label": "J'aime bien apprendre de nouvelles choses et découvrir de nouveaux langages."
+      },
+      {
+        "icon": "deployed_code",
+        "label": "Mon portfolio est enfin disponible ! : https://antoo.devs.li/"
+      },
+      {
+        "icon": "favorite",
+        "label": "J'utilise une stack moderne et à jour"
+      }
+    ]
+  },
+  "stack": {
+    "title": "Mes compétences :",
+    "groups": [
+      {
+        "title": "langages",
+        "items": [
+          {
+            "icon": "brand:lua",
+            "label": "Lua"
+          },
+          {
+            "icon": "brand:dotnet",
+            "label": "C#"
+          },
+          {
+            "icon": "brand:cplusplus",
+            "label": "C++"
+          },
+          {
+            "icon": "brand:gnubash",
+            "label": "Bash"
+          },
+          {
+            "icon": "brand:php",
+            "label": "PHP"
+          },
+          {
+            "icon": "brand:c",
+            "label": "C"
+          },
+          {
+            "icon": "brand:rust",
+            "label": "Rust"
+          },
+          {
+            "icon": "brand:go",
+            "label": "Go"
+          },
+          {
+            "icon": "brand:coffeescript",
+            "label": "Java"
+          },
+          {
+            "icon": "brand:python",
+            "label": "Python"
+          },
+          {
+            "icon": "brand:dart",
+            "label": "Dart"
+          },
+          {
+            "icon": "brand:typescript",
+            "label": "TypeScript"
+          },
+          {
+            "icon": "brand:javascript",
+            "label": "JavaScript"
+          },
+          {
+            "icon": "brand:html5",
+            "label": "HTML5"
+          }
+        ]
+      },
+      {
+        "title": "web",
+        "items": [
+          {
+            "icon": "brand:css",
+            "label": "CSS3"
+          },
+          {
+            "icon": "brand:vuedotjs",
+            "label": "Vue.js"
+          },
+          {
+            "icon": "brand:nuxt",
+            "label": "Nuxt"
+          },
+          {
+            "icon": "brand:nextdotjs",
+            "label": "Next.js"
+          },
+          {
+            "icon": "brand:vite",
+            "label": "Vite"
+          },
+          {
+            "icon": "brand:react",
+            "label": "React"
+          },
+          {
+            "icon": "brand:nodedotjs",
+            "label": "Node.js"
+          },
+          {
+            "icon": "brand:github",
+            "label": "GitHub"
+          },
+          {
+            "icon": "brand:mysql",
+            "label": "MySQL"
+          },
+          {
+            "icon": "brand:redis",
+            "label": "Redis"
+          },
+          {
+            "icon": "brand:postgresql",
+            "label": "PostgreSQL"
+          },
+          {
+            "icon": "brand:mongodb",
+            "label": "MongoDB"
+          }
+        ]
+      },
+      {
+        "title": "Outils & systèmes",
+        "items": [
+          {
+            "icon": "brand:git",
+            "label": "Git"
+          },
+          {
+            "icon": "brand:docker",
+            "label": "Docker"
+          },
+          {
+            "icon": "brand:soundcloud",
+            "label": "Cloudflare"
+          },
+          {
+            "icon": "brand:linux",
+            "label": "Linux"
+          },
+          {
+            "icon": "desktop_windows",
+            "label": "Windows"
+          }
+        ]
+      }
+    ]
+  },
+  "projects": {
+    "source": "pinned",
+    "repos": [
+      "arkyn-launcher",
+      "enderpanel",
+      "Navora",
+      "anti-backdoor"
+    ],
+    "overrides": {},
+    "empty": "Aucune description",
+    "fork": "Fork"
+  },
+  "stats": {
+    "title": "Activité",
+    "stars": "Stars sur mes repos",
+    "contributions": "Contibut. cette année",
+    "repos": "Repos publics",
+    "followers": "Abonnés",
+    "calendar": "Derniers 21 jours",
+    "weekdays": "DLMMJVS",
+    "languages": "Les langages les plus utilisés dans mes repos",
+    "showLanguages": true
+  },
+  "streak": {
+    "title": "Séries",
+    "current": "Série actuelle",
+    "longest": "La plus longue cette année",
+    "days": "jours"
+  },
+  "socials": {
+    "items": [
+      {
+        "icon": "link",
+        "url": "https://guns.lol/antoo2471"
+      },
+      {
+        "icon": "brand:discord",
+        "url": "https://discord.com/users/669936721730863105"
+      },
+      {
+        "icon": "linked_services",
+        "url": "https://antoo.devs.li/"
+      }
+    ],
+    "variant": "chip",
+    "fill": "brand",
+    "card": false
+  },
+  "buttons": {
+    "items": [
+      {
+        "icon": "book_2",
+        "label": "Tous mes repos",
+        "url": "",
+        "style": "tonal"
+      },
+      {
+        "icon": "link",
+        "label": "Portfolio",
+        "url": "https://antoo.devs.li/",
+        "style": "tonal"
+      }
+    ]
+  }
+}
