@@ -1,25 +1,29 @@
 {
- "key": "3dbd981d",
+ "key": "b9651fae",
  "stars": 6,
- "contributions": 282,
+ "contributions": 276,
  "repos": 9,
  "followers": 2,
  "languages": [
   [
+   "TypeScript",
+   448692
+  ],
+  [
+   "Rust",
+   336032
+  ],
+  [
    "JavaScript",
-   270068
+   289470
   ],
   [
    "CSS",
-   124939
+   248187
   ],
   [
    "Vue",
    50875
-  ],
-  [
-   "TypeScript",
-   27912
   ],
   [
    "Python",
@@ -28,10 +32,6 @@
   [
    "C++",
    24358
-  ],
-  [
-   "CMake",
-   18226
   ]
  ],
  "days": [
@@ -113,9 +113,13 @@
    {
     "c": 7,
     "day": 25,
+    "today": false
+   },
+   {
+    "c": 1,
+    "day": 26,
     "today": true
    },
-   null,
    null,
    null,
    null,
@@ -124,7 +128,7 @@
   ]
  ],
  "streak": {
-  "current": 2,
+  "current": 3,
   "longest": 5
  },
  "pins": [
@@ -235,7 +239,7 @@
    "text": "Every AI. One space.",
    "fork": false,
    "stars": 0,
-   "language": null,
+   "language": "TypeScript",
    "topics": []
   },
   {
